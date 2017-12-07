@@ -1,5 +1,4 @@
-
-	#!/usr/bin/env groovy
+#!/usr/bin/env groovy
 
     [$class: 'GithubProjectProperty',
     displayName: 'naveen_task',

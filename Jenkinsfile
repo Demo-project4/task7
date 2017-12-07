@@ -3,7 +3,7 @@
     [$class: 'GithubProjectProperty',
     displayName: 'naveen_task',
     projectUrlStr: 'https://github.com/Demo-project4/task7.git']
-    pipelineTriggers([githubPush()])])
+    pipelineTriggers([githubPush()])
 
 pipeline {
     agent any 
